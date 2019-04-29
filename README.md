@@ -4,7 +4,7 @@
 
 ## 演示
 
-[DEMO](http://cople.github.io/WheelPicker)
+[DEMO](https://singod.github.io/WheelPicker/)
 
 ## 安装
 
